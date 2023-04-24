@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <>
-      <main className="flex min-h-screen bg-slate-950 flex-col items-center justify-between p-5 lg:p-24">
+      <main className="flex min-h-screen bg-slate-950 flex-col items-center justify-between p-5 lg:p-12">
         <div className="z-10 w-full max-w-5xl items-center justify-between text-sm ">
 
           <div className=" bottom-0 left-0 flex h-30 md:h-48 w-full items-end justify-center  lg:static lg:h-auto lg:w-auto lg:bg-none">
@@ -20,8 +20,8 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <div className='flex flex-col text-center'>
-                <h1 className='text-2xl lgtext-4xl text-sky-400/100 font-semibold	'> E-Charging Stations </h1>
-                <p className='text-2 font-medium m-2  text-slate-100'>India&apos;s Premier EV Charging Station Directory</p>
+                <h1 className='text-2xl lgtext-4xl text-sky-400/100 font-semibold	'> Comming Soon Template </h1>
+                <p className='text-2 font-medium m-2  text-slate-100'>Comming Soon Template tag Line</p>
               </div>
             </a>
           </div>
@@ -38,7 +38,7 @@ export default function Home() {
             Our team is putting the finishing touches on a new project 🚀 that we think you&apos;ll love 😍.
           </p>
         </div>
-        <div className='text-centerf lg:m-20 mt-10 w-80 p-3' >
+        <div className='text-center lg:m-7 mt-10 w-80 p-3' >
           <form className="space-y-6" action="#" method="POST">
             <div>
               <label htmlFor="email" className="block text-slate-100  font-light text-sm leading-6">Stay tuned for our live updates!</label>

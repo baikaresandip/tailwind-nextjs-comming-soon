@@ -6,7 +6,7 @@ This is a simple coming soon template built with [Next.js](https://nextjs.org/) 
 Here's a live demo of the template: https://localhost:3000
 
 ### Screenshot
-![Comming Soon Page](https://github.com/baikaresandip/tailwnd-nextjs-comming-soon/blob/main/public/Home-India-s-Premier-EV-Charging-Station-Directory.png "Comming Soon Page")
+![Comming Soon Page](https://github.com/baikaresandip/tailwnd-nextjs-comming-soon/blob/main/public/Home-Comming-soon-Template.png "Comming Soon Page")
 
 
 ## Getting Started
