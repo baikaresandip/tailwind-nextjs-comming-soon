@@ -3,7 +3,7 @@
 This is a simple coming soon template built with [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/). It is a lightweight and responsive template that can be used for various projects that require a "coming soon" page.
 
 ## Demo
-Here's a live demo of the template: https://localhost:3000
+Here's a live demo of the template: **[Demo](https://tailwnd-nextjs-comming-soon-tm2g.vercel.app/)**
 
 ### Screenshot
 ![Comming Soon Page](https://github.com/baikaresandip/tailwnd-nextjs-comming-soon/blob/main/public/Home-Comming-soon-Template.png "Comming Soon Page")
