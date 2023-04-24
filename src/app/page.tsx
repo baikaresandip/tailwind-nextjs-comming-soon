@@ -21,7 +21,7 @@ export default function Home() {
             >
               <div className='flex flex-col text-center'>
                 <h1 className='text-2xl lgtext-4xl text-sky-400/100 font-semibold	'> E-Charging Stations </h1>
-                <p className='text-2 font-medium m-2  text-slate-100'>India's Premier EV Charging Station Directory</p>
+                <p className='text-2 font-medium m-2  text-slate-100'>India&apos;s Premier EV Charging Station Directory</p>
               </div>
             </a>
           </div>
@@ -34,8 +34,8 @@ export default function Home() {
             <span className=''>⌛</span>
           </h2>
           <p className='text-2xl md:text-3xl px-6 max-w-3xl text-center m-5 text-slate-100 font-thin'>
-            We're currently working 👨‍💻 hard to bring you something great, and we can't wait to share it with you 📅.
-            Our team is putting the finishing touches on a new project 🚀 that we think you'll love 😍.
+            We&apos;re currently working 👨‍💻 hard to bring you something great, and we can&apos;t wait to share it with you 📅.
+            Our team is putting the finishing touches on a new project 🚀 that we think you&apos;ll love 😍.
           </p>
         </div>
         <div className='text-centerf lg:m-20 mt-10 w-80 p-3' >
