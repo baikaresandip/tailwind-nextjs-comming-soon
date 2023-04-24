@@ -11,7 +11,7 @@ Here's a live demo of the template: **[Demo](https://tailwnd-nextjs-comming-soon
 
 ## Getting Started
 
-Clone this repository: `git clone https://github.com/baikaresandip/tailwnd-nextjs-comming-soon.git`
+Clone this repository: `git clone https://github.com/baikaresandip/tailwind-nextjs-comming-soon.git`
 
 Install dependencies: `npm install`
 
