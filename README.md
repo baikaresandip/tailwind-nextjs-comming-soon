@@ -26,6 +26,12 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Future Enhanment
+
+- [x] Comming Soon Template
+- [ ] Email Sent functionality and configurations
+- [ ] Both light and dark colors
+
 ## Learn More
 
 To learn more about Next.js and Tailwind CSS, take a look at the following resources:
