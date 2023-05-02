@@ -31,7 +31,7 @@ export default function Home() {
           {/* before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-white before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-sky-200 after:via-blue-200 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-blue-700 before:dark:opacity-10 after:dark:from-sky-900 after:dark:via-[#0141ff] after:dark:opacity-40 before:lg:h-[360px] */}
           <h2 className='text-center font-heading m-10 text-6xl sm:text-7xl lg:text-8xl leading-[5rem] sm:leading-[7rem] lg:leading-[7rem] font-bold '>
             <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>Comming Soon</span>
-            <span className=''>⌛</span>
+            <span className=''>⏳</span>
           </h2>
           <p className='text-2xl md:text-3xl px-6 max-w-3xl text-center m-5 text-slate-100 font-thin'>
             We&apos;re currently working 👨‍💻 hard to bring you something great, and we can&apos;t wait to share it with you 📅.
