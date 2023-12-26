@@ -3,7 +3,10 @@
 This is a simple coming soon template built with [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/). It is a lightweight and responsive template that can be used for various projects that require a "coming soon" page.
 
 ## Demo
-Here's a live demo of the template: **[Demo](https://tailwnd-nextjs-comming-soon-tm2g.vercel.app/)**
+Here's a live demo of the template: **[Live Demo](https://tailwnd-nextjs-comming-soon-tm2g.vercel.app/)**
+
+
+<a href="https://www.buymeacoffee.com/sandipbaikare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Screenshot
 ![Comming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/Home-Comming-soon-Template.png "Comming Soon Page")
@@ -29,8 +32,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Future Enhanment
 
 - [x] Comming Soon Template
+- [x] Both light and dark colors
 - [ ] Email Sent functionality and configurations
-- [ ] Both light and dark colors
 
 ## Learn More
 

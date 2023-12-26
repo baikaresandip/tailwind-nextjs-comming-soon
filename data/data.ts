@@ -10,15 +10,15 @@ const data = {
     socialIcons: [
         {
             icon: "facebook",
-            link: "#",
+            link: "https://www.facebook.com/sandeep.baikare/",
         },
         {
             icon: "twitter",
-            link: "#",
+            link: "https://twitter.com/BaikareSandeep",
         },
         {
             icon: "linkedIn",
-            link: "#",
+            link: "https://www.linkedin.com/in/sandip-baikare/",
         },
     ],
 }
