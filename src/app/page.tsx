@@ -3,9 +3,7 @@ import { Inter } from 'next/font/google'
 import { ThemeProvider } from "next-themes"
 import { NextSeo } from 'next-seo';
 import data from '../../data/data';
-import Newsletter from '../../components/Newsletter';
-
-
+import { ThemeSwitcher } from '../../components/ThemeSwitcher'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
@@ -24,6 +22,7 @@ export default function Home() {
 
   return (
     <>
+    {/* <ThemeSwitcher /> */}
       <main className="flex min-h-screen flex-col items-center justify-between p-5 lg:p-12">
         <div className="z-10 w-full max-w-5xl items-center justify-between text-sm ">
 
@@ -42,7 +41,7 @@ export default function Home() {
         </div>
 
         <div className="relative flex flex-col  place-items-center ">
-          <h2 className='text-center font-heading m-10 text-6xl sm:text-7xl lg:text-8xl leading-[5rem] sm:leading-[7rem] lg:leading-[7rem] font-bold '>
+          <h2 className='text-center font-heading m-10 text-6xl sm:text-7xl lg:text-8xl leading-[5rem] sm:leading-[7rem] lg:leading-[7rem] font-black	 '>
             <span className='bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500'>{title}</span>
             <span className=''>⏳</span>
           </h2>

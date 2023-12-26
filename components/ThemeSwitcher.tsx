@@ -1,11 +1,12 @@
 "use client";
 import { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
+import { MoonIcon, SunIcon } from "@heroicons/react/24/solid"
 
 
 export const ThemeSwitcher = () => {
   const [mounted, setMounted] = useState(false);
-  const { theme, setTheme } = useTheme();
+  const { systemTheme, theme, setTheme } = useTheme();
 
 
   useEffect(() => {
@@ -17,15 +18,34 @@ export const ThemeSwitcher = () => {
     return null;
   }
 
-
+  const currentTheme = theme === "system" ? systemTheme : theme
+  
   return (
-    <div className=" items-center">
-        <button
-        className={`w-24 dark:text-slate-200 text-slate-500 right-5 top-2 p-2 rounded-md`}
-        onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
+    <div className="">
+        <button 
+        className="text-slate-500 p-2 bg rounded-full border-slate-50	"
+        onClick={() => { currentTheme === "light" ?
+            setTheme("dark") :
+            setTheme("light")
+        }}
         >
-        {theme === "light" ? "Dark" : "Light"}
+        { currentTheme === "light" ? "DARK" : "LIGHT" }
         </button>
+        {/* {currentTheme === "light" ? (
+            <MoonIcon
+                className="size-5 cursor-pointer text-slate-700"
+                onClick={() => {
+                    setTheme("dark")
+                }}
+            />
+      ) : (
+        <SunIcon
+            className="size-5 cursor-pointer text-yellow-400"
+            onClick={() => {
+                setTheme("light")
+            }}
+        />
+      )} */}
     </div>
   );
 };
