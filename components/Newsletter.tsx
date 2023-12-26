@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Newsletter({newsletterheading}) {
+function Newsletter({newsletterheading}: {newsletterheading: any}) {
   return (
     <>
             <div className='text-center lg:m-7 mt-10 w-80 p-3' >
