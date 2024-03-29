@@ -9,7 +9,7 @@ Here's a live demo of the template: **[Live Demo](https://tailwnd-nextjs-comming
 <a href="https://www.buymeacoffee.com/sandipbaikare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Screenshot
-![Comming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/Home-Comming-soon-Template.png "Comming Soon Page")
+![Comming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/Comming-soon-Template-screenshot.png "Comming Soon Page")
 
 
 ## Getting Started
