@@ -1,6 +1,6 @@
 const data = {
     sitename: "Sandip Baikare",
-    sitetagline: "Something great is on the way!",
+    sitetagline: "Something great is on the way! ✨ 🔥",
     siteurl: "https://github.com/baikaresandip",
     sitelogo: "",
     title: "Coming Soon",
