@@ -61,7 +61,7 @@ export default function Home() {
         </div>
         { hideSubscribeForm === false ? (
           <div className="text-center lg:m-7 mt-10 w-80 p-3">
-            <form className="space-y-6" action="#" method="POST">
+            <form className="space-y-6" action="https://formsubmit.co/aadil@marketifyall.com" method="POST">
               <div>
                 <label
                   htmlFor="email"
@@ -69,7 +69,10 @@ export default function Home() {
                 >
                   {newsletterheading}
                 </label>
+                <form action="https://formsubmit.co/your@email.com" method="POST">
+
                 <div className="mt-2 flex-col flex lg:flex md:flex-row">
+
                   <input
                     id="email"
                     name="email"
@@ -83,6 +86,8 @@ export default function Home() {
                     Subscribe
                   </button>
                 </div>
+                </form>
+
               </div>
             </form>
           </div>
@@ -94,7 +99,7 @@ export default function Home() {
           <div className="my-4 text-center">
             <ul className="flex flex-wrap lg:flex justify-center ">
               <li className="px-2"> {socialIconsHeading} </li>
-              {socialIcons.map((social, index) => (
+              {/* {socialIcons.map((social, index) => (
                 <li
                   key={index}
                   className="px-2 capitalize border-1  hover:border-b-white"
@@ -103,7 +108,7 @@ export default function Home() {
                     {social.icon}
                   </a>
                 </li>
-              ))}
+              ))} */}
             </ul>
           </div>
           <div className="">
