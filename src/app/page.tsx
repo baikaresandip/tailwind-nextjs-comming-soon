@@ -96,10 +96,10 @@ export default function Home() {
         )}
 
         <footer className="text-slate-500 text-center">
-          <div className="my-4 text-center">
+{/*           <div className="my-4 text-center">
             <ul className="flex flex-wrap lg:flex justify-center ">
-              <li className="px-2"> {socialIconsHeading} </li>
-              {/* {socialIcons.map((social, index) => (
+             <li className="px-2"> {socialIconsHeading} </li> 
+             {socialIcons.map((social, index) => (
                 <li
                   key={index}
                   className="px-2 capitalize border-1  hover:border-b-white"
@@ -108,9 +108,9 @@ export default function Home() {
                     {social.icon}
                   </a>
                 </li>
-              ))} */}
+              ))} 
             </ul>
-          </div>
+          </div> */}
           <div className="">
             <p
               className=""
