@@ -27,7 +27,7 @@ export default function RootLayout({
       <body className={ `${inter.className} bg-gray-200	 dark:bg-[#0d1117] `}
       >
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem>
-          <ThemeSwitcher />
+          {/* <ThemeSwitcher /> */}
           <main>{children}</main>
         </ThemeProvider>          
       </body>
