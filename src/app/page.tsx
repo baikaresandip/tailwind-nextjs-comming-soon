@@ -1,9 +1,7 @@
 import Image from "next/image";
 import { Inter } from "next/font/google";
-import { ThemeProvider } from "next-themes";
 import { NextSeo } from "next-seo";
 import data from "../../data/data";
-import { ThemeSwitcher } from "../../components/ThemeSwitcher";
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
@@ -34,10 +32,10 @@ export default function Home() {
               rel="noopener noreferrer"
             >
               <div className="flex flex-col text-center">
-                <h1 className="text-2xl lgtext-4xl text-sky-400/100 font-semibold	">
+                <h1 className="text-2xl uppercase lgtext-4xl text-sky-400/100 font-semibold	">
                   {sitename}
                 </h1>
-                <p className="text-2 font-medium m-2 text-slate-800 dark:text-slate-100">
+                <p className="text-xl font-xl m-2 text-slate-800 dark:text-slate-100">
                   {sitetagline}
                 </p>
               </div>

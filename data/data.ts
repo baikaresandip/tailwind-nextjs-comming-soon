@@ -1,5 +1,9 @@
 const data = {
+<<<<<<< HEAD
     sitename: "Sandip Baikare",
+=======
+    sitename: "Sandip Baikare Blog",
+>>>>>>> 91c62fc (chor: updated nextjs and dark mode)
     sitetagline: "Something great is on the way! ✨ 🔥",
     siteurl: "https://github.com/baikaresandip",
     sitelogo: "",
