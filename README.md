@@ -35,6 +35,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 - [x] Both light and dark mode
 - [x] Another version with countdown time 
 - [ ] Email Sent functionality and configurations
+- [ ] Implemet hide and show components for both versions from data
+- [ ] 
 
 ## tech Stacks
 - Next.JS: 14.1.4
