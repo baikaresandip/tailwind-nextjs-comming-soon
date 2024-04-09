@@ -32,8 +32,18 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Future Enhanment
 
 - [x] Comming Soon Template
-- [x] Both light and dark colors
+- [x] Both light and dark mode
+- [x] Another version with countdown time 
 - [ ] Email Sent functionality and configurations
+
+## tech Stacks
+- Next.JS: 14.1.4
+- Node: 20.12.5
+- next-seo: 6.5.0
+- next-themes: 0.3.0
+- react: 18.2.0
+- typescript: 5.4.4
+- eslint: 8
 
 ## Learn More
 

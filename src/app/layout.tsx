@@ -3,7 +3,6 @@ import { Inter } from 'next/font/google'
 import { ThemeProvider } from './theme-provider'
 
 import Head from 'next/head'
-import ThemeSwitch from '../../components/ThemeSwitch'
 
 const inter = Inter({ 
   weight: ['100', '200', '300', '600', '400', '700', '900'],
@@ -23,14 +22,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <Head>
-        <link rel="icon" href="/favicon.ico" />
-        <link rel="stylesheet" href="./_assets/style.css" />
+        <link rel="icon" href="/favicon.ico" />        
       </Head>
-      <body className={ `${inter.className} bg-gray-200	 dark:bg-[#0d1117] `}
+      <body className={ `${inter.className} bg-gray-200	min-h-screen dark:bg-[#0d1117] `}
       >
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem={true}>          
-          <ThemeSwitch />
-          <main>{children}</main>
+          <main className='main'>{children}</main>
         </ThemeProvider>          
       </body>
     </html>
