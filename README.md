@@ -9,8 +9,11 @@ Here's a live demo of the template: **[Live Demo](https://tailwnd-nextjs-comming
 <a href="https://www.buymeacoffee.com/sandipbaikare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Screenshot
+
+#### Standard Version
 ![Coming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-standard-template.png "Coming Soon Page")
 
+#### Version 1
 ![Coming Soon Version 1](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-version-1.png "Coming Soon Version 1")
 
 
