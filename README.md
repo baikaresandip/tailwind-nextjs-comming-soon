@@ -9,7 +9,10 @@ Here's a live demo of the template: **[Live Demo](https://tailwnd-nextjs-comming
 <a href="https://www.buymeacoffee.com/sandipbaikare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ### Screenshot
-![Comming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/Comming-soon-Template-screenshot.png "Comming Soon Page")
+![Coming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-standard-template.png "Coming Soon Page")
+
+![Coming Soon Version 1](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-version-1.png "Coming Soon Version 1")
+
 
 
 ## Getting Started
@@ -31,14 +34,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Future Enhanment
 
-- [x] Comming Soon Template
+- [x] Coming Soon Template
 - [x] Both light and dark mode
 - [x] Another version with countdown time 
 - [ ] Email Sent functionality and configurations
 - [ ] Implemet hide and show components for both versions from data
-- [ ] 
+- [ ] Implement 
 
-## tech Stacks
+## Tech Stacks
 - Next.JS: 14.1.4
 - Node: 20.12.5
 - next-seo: 6.5.0
