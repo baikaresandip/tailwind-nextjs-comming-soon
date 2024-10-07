@@ -67,7 +67,11 @@ function SubscribeForm() {
                         {/* Subscribe button */}
                         <button 
                             onClick={openTallyPopup}
-                            className="ml-0 bg-slate-900 sm:w-auto border-slate-800 dark:border-slate-100 rounded-none p-2 border-2 dark:text-white hover:bg-slate-950 transition duration-300 ease-in-out transform hover:scale-105"
+                            className="w-full sm:w-auto px-6 py-3 rounded-md font-semibold text-white 
+                                       bg-gradient-to-r from-green-400 to-green-600 
+                                       hover:from-green-500 hover:to-green-700 
+                                       transition duration-300 ease-in-out transform hover:scale-105 
+                                       shadow-lg hover:shadow-xl"
                         >
                             Start Your Journey Today
                         </button>
