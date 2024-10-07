@@ -10,8 +10,8 @@ const inter = Inter({
 })
 
 export const metadata = {
-  title: "Home - Comming soon Template",
-  description: 'This is a simple coming soon template built with NextJS and TailwindCSS. It is a lightweight and responsive template that can be used for various projects that require a "coming soon" page.',
+  title: "Sweat It Out",
+  description: 'Sweat is an AI powered workout wingman that gets you tailored made balanced workouts and take care of your nutrition.',
 }
 
 export default function RootLayout({
