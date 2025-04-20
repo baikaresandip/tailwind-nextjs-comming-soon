@@ -5,7 +5,7 @@ import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import SubscribeForm from '../SubscribeForm/SubscribeForm';
 function ComingSoonVersion1() {
-    const specificEndDate = new Date('2024-12-31T23:59:59');
+    const specificEndDate = new Date('2025-12-31T23:59:59');
 
   return (
     <>
